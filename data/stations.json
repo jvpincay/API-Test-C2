@@ -1,0 +1,919 @@
+[
+    {
+        "id": 2,
+        "name": {
+            "DE": "Autoverlad Lötschberg in Kandersteg",
+            "FR": "Gare de chargement du Lötschberg à Kandersteg",
+            "IT": "Stazione di carico del Lötschberg a Kandersteg"
+        },
+        "locationCode": 12546,
+        "direction": 0,
+        "directionReadable": {
+            "DE": "Kandersteg Richtung Goppenstein",
+            "FR": "Kandersteg direction Goppenstein",
+            "IT": "Kandersteg direzione Goppenstein"
+        },
+        "coordinates": {
+            "start": {
+                "type": "Point",
+                "coordinates": [
+                    46.494379011340605,
+                    7.670428145688991
+                ]
+            },
+            "end": {
+                "type": "Point",
+                "coordinates": [
+                    46.363192336948025,
+                    7.7575086765014
+                ]
+            },
+            "middle": {
+                "type": "Point",
+                "coordinates": [
+                    46.43122801350467,
+                    7.71788145260822
+                ]
+            }
+        },
+        "lengthInKm": 17.3,
+        "operatorName": {
+            "DE": "BLS",
+            "FR": "BLS",
+            "IT": "BLS"
+        },
+        "priceFrom": 25,
+        "ticketURL": {
+            "DE": "https://www.bls.ch/de/fahren/autoverlad/kandersteg-goppenstein",
+            "FR": "https://www.bls.ch/fr/fahren/autoverlad/kandersteg-goppenstein",
+            "IT": "https://www.bls.ch/it/fahren/autoverlad/kandersteg-goppenstein"
+        },
+        "status": {
+            "DE": "offen",
+            "FR": "ouvert",
+            "IT": "aperto"
+        },
+        "statusAdditionalInfo": {
+            "DE": "Autoverlad Lötschberg in Kandersteg  offen für alle Fahrzeuge, Baustellenfahrplan: Montag, 20.10.2025 bis Samstag, 13.12.2025. 05.00 Uhr Check Online Fahrplan",
+            "FR": "Gare de chargement du Lötschberg à Kandersteg ouvert à tous les véhicules, Calendrier des travaux: du lundi 20 octobre 2025 au samedi 13 décembre 2025. 5 heures. Consultez les horaires en ligne",
+            "IT": "Stazione di carico del Lötschberg a Kandersteg aperto per tutti i veicoli, Orario dei lavori: da lunedì 20 ottobre 2025 a sabato 13 dicembre 2025. Ore 05:00 Controlla l'orario online"
+        },
+        "supportedVehicles": {
+            "DE": [
+                "Auto (bis 9 Sitze)",
+                "Auto mit Anhänger",
+                "Auto mit Wohnwagen",
+                "Wohnmobil",
+                "Motorrad",
+                "Wohnmobil (>5t)",
+                "Lastwagen",
+                "Busse (10-22 Sitze)"
+            ],
+            "FR": [
+                "Voitures (jusqu'à 9 places)",
+                "Voitures avec remorque",
+                "Voitures avec caravane",
+                "Camping-car",
+                "Moto",
+                "Camping-cars (>5t)",
+                "Camions",
+                "Autobus (10-22 places)"
+            ],
+            "IT": [
+                "Auto (fino a 9 posti)",
+                "Auto con rimorchio",
+                "Auto con roulotte",
+                "Camper",
+                "Moto",
+                "Camper (>5t)",
+                "Camion",
+                "Autobus (10-22 posti)"
+            ]
+        },
+        "restrictions": {
+            "maxHeightInMeters": 3.55,
+            "maxWidthInMeters": 2.5,
+            "maxWeight": {
+                "DE": "20t (28t nur in besonderen Fällen, Zufahrtsstrasse muss organisiert sein)",
+                "FR": "20t (28t seulement dans des cas spéciaux, la route d'accès doit être organisée)",
+                "IT": "20t (28t solo in casi speciali, la strada di accesso deve essere organizzata)"
+            }
+        },
+        "plannedWorks": [
+            {
+                "workId": "Viasuisser_FAVM/585387_TIC-Viasuisse/1",
+                "lastUpdated": "2025-11-14T11:35:31+01:00",
+                "validity": {
+                    "from": "2025-11-20T14:00:00+01:00",
+                    "to": "2025-11-20T16:00:00+01:00"
+                },
+                "description": {
+                    "DE": "H223 Hauptstrasse, Kandersteg Autoverlad - Mülenen zwischen Kandersteg und Mitholz in beiden Richtungen Verkehrsbehinderung, Baustelle tagsüber\n auf einer Länge von 0.1 km, veränderte Verkehrsführung, vorübergehende Begrenzung der Fahrbahnbreite auf 4 m, morgen von 14:00 Uhr bis 16:00 Uhr ID105291",
+                    "FR": "H223 Route principale, Kandersteg Autoverlad - Mülenen entre Kandersteg et Mitholz dans les deux sens perturbation, travaux routiers en journée sur 0,1 km, nouveau plan de circulation, limitation temporaire de largeur de 4 m, demain de 14:00 jusqu'à 16:00 ID105291",
+                    "IT": "H223 Strada principale, Kandersteg Autoverlad - Mülenen tra Kandersteg e Mitholz in entrambe le direzioni problemi di traffico, lavori stradali durante il giorno per 0.1 km, nuova gestione del traffico, limite temporaneo di larghezza di 4 m, domani da 14:00 fino a 16:00 ID105291"
+                },
+                "nightWork": false
+            }
+        ],
+        "activeIncidents": [],
+        "siblingsIds": [
+            4
+        ],
+        "relatedPassesId": [],
+        "lastModified": "2025-11-07T20:37:11+01:00",
+        "webcamURL": "https://www.bls.ch/webcams-kandersteg-nord",
+        "waitingTime": {
+            "DE": "",
+            "FR": "",
+            "IT": ""
+        },
+        "lastUpdated": "2025-11-07T20:37:11+01:00"
+    },
+    {
+        "id": 4,
+        "name": {
+            "DE": "Autoverlad Lötschberg in Goppenstein",
+            "FR": "Gare de chargement du Lötschberg à Goppenstein",
+            "IT": "Stazione di carico del Lötschberg a Goppenstein"
+        },
+        "locationCode": 12547,
+        "direction": 1,
+        "directionReadable": {
+            "DE": "Goppenstein Richtung Kandersteg",
+            "FR": "Goppenstein direction Kandersteg",
+            "IT": "Goppenstein direzione Kandersteg"
+        },
+        "coordinates": {
+            "start": {
+                "type": "Point",
+                "coordinates": [
+                    46.363192336948025,
+                    7.7575086765014
+                ]
+            },
+            "end": {
+                "type": "Point",
+                "coordinates": [
+                    46.494379011340605,
+                    7.670428145688991
+                ]
+            },
+            "middle": {
+                "type": "Point",
+                "coordinates": [
+                    46.43122801350467,
+                    7.71788145260822
+                ]
+            }
+        },
+        "lengthInKm": 17.3,
+        "operatorName": {
+            "DE": "BLS",
+            "FR": "BLS",
+            "IT": "BLS"
+        },
+        "priceFrom": 25,
+        "ticketURL": {
+            "DE": "https://www.bls.ch/de/fahren/autoverlad/kandersteg-goppenstein",
+            "FR": "https://www.bls.ch/fr/fahren/autoverlad/kandersteg-goppenstein",
+            "IT": "https://www.bls.ch/it/fahren/autoverlad/kandersteg-goppenstein"
+        },
+        "status": {
+            "DE": "offen",
+            "FR": "ouvert",
+            "IT": "aperto"
+        },
+        "statusAdditionalInfo": {
+            "DE": "Autoverlad Lötschberg in Goppenstein  offen für alle Fahrzeuge, Baustellenfahrplan: Montag, 20.10.2025 bis Samstag, 13.12.2025. 05.00 Uhr Check Online Fahrplan. ",
+            "FR": "Gare de chargement du Lötschberg à Goppenstein ouvert à tous les véhicules, Calendrier des travaux: du lundi 20 octobre 2025 au samedi 13 décembre 2025. 5 heures. Consultez les horaires en ligne",
+            "IT": "Stazione di carico del Lötschberg a Goppenstein aperto per tutti i veicoli, Orario dei lavori: da lunedì 20 ottobre 2025 a sabato 13 dicembre 2025. Ore 05:00 Controlla l'orario online"
+        },
+        "supportedVehicles": {
+            "DE": [
+                "Auto (bis 9 Sitze)",
+                "Auto mit Anhänger",
+                "Auto mit Wohnwagen",
+                "Wohnmobil",
+                "Motorrad",
+                "Wohnmobil (>5t)",
+                "Lastwagen",
+                "Busse (10-22 Sitze)"
+            ],
+            "FR": [
+                "Voitures (jusqu'à 9 places)",
+                "Voitures avec remorque",
+                "Voitures avec caravane",
+                "Camping-car",
+                "Moto",
+                "Camping-cars (>5t)",
+                "Camions",
+                "Autobus (10-22 places)"
+            ],
+            "IT": [
+                "Auto (fino a 9 posti)",
+                "Auto con rimorchio",
+                "Auto con roulotte",
+                "Camper",
+                "Moto",
+                "Camper (>5t)",
+                "Camion",
+                "Autobus (10-22 posti)"
+            ]
+        },
+        "restrictions": {
+            "maxHeightInMeters": 3.55,
+            "maxWidthInMeters": 2.5,
+            "maxWeight": {
+                "DE": "20t (28t nur in besonderen Fällen, Zufahrtsstrasse muss organisiert sein)",
+                "FR": "20t (28t seulement dans des cas spéciaux, la route d'accès doit être organisée)",
+                "IT": "20t (28t solo in casi speciali, la strada di accesso deve essere organizzata)"
+            }
+        },
+        "plannedWorks": [],
+        "activeIncidents": [],
+        "siblingsIds": [
+            2
+        ],
+        "relatedPassesId": [],
+        "lastModified": "2025-11-10T05:05:49+01:00",
+        "webcamURL": "https://www.bls.ch/webcams-goppenstein-sud",
+        "waitingTime": {
+            "DE": "",
+            "FR": "",
+            "IT": ""
+        },
+        "lastUpdated": "2025-11-10T05:05:49+01:00"
+    },
+    {
+        "id": 5,
+        "name": {
+            "DE": "Autoverlad Furka in Oberwald",
+            "FR": "Gare de chargement de la Furka à Oberwald",
+            "IT": "Stazione di carico della Furka ad Oberwald"
+        },
+        "locationCode": 12540,
+        "direction": 1,
+        "directionReadable": {
+            "DE": "Oberwlad Richtung Realp",
+            "FR": "Oberwlad direction Realp",
+            "IT": "Oberwlad direzione Realp"
+        },
+        "coordinates": {
+            "start": {
+                "type": "Point",
+                "coordinates": [
+                    46.531104202858245,
+                    8.34314864112
+                ]
+            },
+            "end": {
+                "type": "Point",
+                "coordinates": [
+                    46.598126366628215,
+                    8.503028514127811
+                ]
+            },
+            "middle": {
+                "type": "Point",
+                "coordinates": [
+                    46.53419794711345,
+                    8.45275836535408
+                ]
+            }
+        },
+        "lengthInKm": 17.7,
+        "operatorName": {
+            "DE": "Matterhorn Gotthard Bahn  (MGB)",
+            "FR": "Matterhorn Gotthard Bahn (MGB)",
+            "IT": "Matterhorn Gotthard Bahn  (MGB)"
+        },
+        "priceFrom": 33,
+        "ticketURL": {
+            "DE": "https://www.matterhorngotthardbahn.ch/de/products/autoverlad-furka-einzelfahrt",
+            "FR": "https://www.matterhorngotthardbahn.ch/fr/products/ferroutage-furka-simple",
+            "IT": "https://www.matterhorngotthardbahn.ch/de/products/autoverlad-furka-einzelfahrt"
+        },
+        "status": {
+            "DE": "offen",
+            "FR": "ouvert",
+            "IT": "aperto"
+        },
+        "statusAdditionalInfo": {
+            "DE": "Autoverlad Furka in Oberwald  offen für alle Fahrzeuge",
+            "FR": "Gare de chargement de la Furka à Oberwald ouvert à tous les véhicules",
+            "IT": "Stazione di carico della Furka ad Oberwald aperto per tutti i veicoli"
+        },
+        "supportedVehicles": {
+            "DE": [
+                "Auto",
+                "Auto mit Anhänger",
+                "Auto mit Wohnwagen",
+                "Motorrad",
+                "Wohnmobile",
+                "Lastwagen",
+                "Busse (über 15 Sitze und/oder mehr als 3,5t, nur der Fahrer darf im Fahrzeug bleiben)"
+            ],
+            "FR": [
+                "Voiture",
+                "Voiture avec remorque",
+                "Voiture avec caravane",
+                "Moto",
+                "Camping-car",
+                "Camions",
+                "Autobus (plus de 15 places et/ou plus de 3,5t, seul le conducteur peut rester dans le véhicule)"
+            ],
+            "IT": [
+                "Auto",
+                "Auto con rimorchio",
+                "Auto con roulotte",
+                "Moto",
+                "Camper",
+                "Camion",
+                "Autobus (più di 15 posti e/o più di 3,5t, solo il conducente può rimanere nel veicolo)"
+            ]
+        },
+        "restrictions": {
+            "maxHeightInMeters": 3.5,
+            "maxWidthInMeters": 2.6,
+            "maxWeight": {
+                "DE": "20t",
+                "FR": "20t",
+                "IT": "20t"
+            }
+        },
+        "plannedWorks": [],
+        "activeIncidents": [],
+        "siblingsIds": [
+            7
+        ],
+        "relatedPassesId": [
+            76
+        ],
+        "lastModified": "2025-11-16T19:50:22+01:00",
+        "webcamURL": "",
+        "waitingTime": {
+            "DE": "",
+            "FR": "",
+            "IT": ""
+        },
+        "lastUpdated": "2025-11-16T19:50:22+01:00"
+    },
+    {
+        "id": 7,
+        "name": {
+            "DE": "Autoverlad Furka in Realp",
+            "FR": "Gare de chargement de la Furka à Realp",
+            "IT": "Stazione di carico della Furka a Realp"
+        },
+        "locationCode": 12541,
+        "direction": 0,
+        "directionReadable": {
+            "DE": "Realp Richtung Oberwald",
+            "FR": "Realp direction Oberwald",
+            "IT": "Realp direzione Oberwald"
+        },
+        "coordinates": {
+            "start": {
+                "type": "Point",
+                "coordinates": [
+                    46.598126366628215,
+                    8.503028514127811
+                ]
+            },
+            "end": {
+                "type": "Point",
+                "coordinates": [
+                    46.531104202858245,
+                    8.34314864112
+                ]
+            },
+            "middle": {
+                "type": "Point",
+                "coordinates": [
+                    46.53419794711345,
+                    8.45275836535408
+                ]
+            }
+        },
+        "lengthInKm": 17.7,
+        "operatorName": {
+            "DE": "Matterhorn Gotthard Bahn  (MGB)",
+            "FR": "Matterhorn Gotthard Bahn (MGB)",
+            "IT": "Matterhorn Gotthard Bahn  (MGB)"
+        },
+        "priceFrom": 33,
+        "ticketURL": {
+            "DE": "https://www.matterhorngotthardbahn.ch/de/products/autoverlad-furka-einzelfahrt",
+            "FR": "https://www.matterhorngotthardbahn.ch/fr/products/ferroutage-furka-simple",
+            "IT": "https://www.matterhorngotthardbahn.ch/de/products/autoverlad-furka-einzelfahrt"
+        },
+        "status": {
+            "DE": "offen",
+            "FR": "ouvert",
+            "IT": "aperto"
+        },
+        "statusAdditionalInfo": {
+            "DE": "Autoverlad Furka in Realp offen für alle Fahrzeuge",
+            "FR": "Gare de chargement de la Furka à Realp ouvert à tous les véhicules",
+            "IT": "Stazione di carico della Furka a Realp aperto per tutti i veicoli"
+        },
+        "supportedVehicles": {
+            "DE": [
+                "Auto",
+                "Auto mit Anhänger",
+                "Auto mit Wohnwagen",
+                "Motorrad",
+                "Wohnmobile",
+                "Lastwagen",
+                "Busse (über 15 Sitze und/oder mehr als 3,5t, nur der Fahrer darf im Fahrzeug bleiben)"
+            ],
+            "FR": [
+                "Voiture",
+                "Voiture avec remorque",
+                "Voiture avec caravane",
+                "Moto",
+                "Camping-car",
+                "Camions",
+                "Autobus (plus de 15 places et/ou plus de 3,5t, seul le conducteur peut rester dans le véhicule)"
+            ],
+            "IT": [
+                "Auto",
+                "Auto con rimorchio",
+                "Auto con roulotte",
+                "Moto",
+                "Camper",
+                "Camion",
+                "Autobus (più di 15 posti e/o più di 3,5t, solo il conducente può rimanere nel veicolo)"
+            ]
+        },
+        "restrictions": {
+            "maxHeightInMeters": 3.5,
+            "maxWidthInMeters": 2.6,
+            "maxWeight": {
+                "DE": "20t",
+                "FR": "20t",
+                "IT": "20t"
+            }
+        },
+        "plannedWorks": [],
+        "activeIncidents": [],
+        "siblingsIds": [
+            5
+        ],
+        "relatedPassesId": [
+            76
+        ],
+        "lastModified": "2025-11-09T16:21:54+01:00",
+        "webcamURL": "",
+        "waitingTime": {
+            "DE": "",
+            "FR": "",
+            "IT": ""
+        },
+        "lastUpdated": "2025-11-09T16:21:54+01:00"
+    },
+    {
+        "id": 17,
+        "name": {
+            "DE": "Autoverlad Simplon in Brig",
+            "FR": "Gare de chargement du Simplon à Brigue",
+            "IT": "Stazione di carico del Sempione a Briga"
+        },
+        "locationCode": 26891,
+        "direction": 1,
+        "directionReadable": {
+            "DE": "Brig Richtung Iselle",
+            "FR": "Brigue direction Iselle",
+            "IT": "Briga direzione Iselle"
+        },
+        "coordinates": {
+            "start": {
+                "type": "Point",
+                "coordinates": [
+                    46.321270970877706,
+                    7.993788791581828
+                ]
+            },
+            "end": {
+                "type": "Point",
+                "coordinates": [
+                    46.20635689910125,
+                    8.209039281882736
+                ]
+            },
+            "middle": {
+                "type": "Point",
+                "coordinates": [
+                    46.26732263973048,
+                    8.105490774003945
+                ]
+            }
+        },
+        "lengthInKm": 21.8,
+        "operatorName": {
+            "DE": "BLS ",
+            "FR": "BLS ",
+            "IT": "BLS"
+        },
+        "priceFrom": 24,
+        "ticketURL": {
+            "DE": "https://www.bls.ch/de/fahren/autoverlad/brig-iselle",
+            "FR": "https://www.bls.ch/fr/fahren/autoverlad/brig-iselle",
+            "IT": "https://www.bls.ch/it/fahren/autoverlad/brig-iselle"
+        },
+        "status": {
+            "DE": "offen",
+            "FR": "ouvert",
+            "IT": "aperto"
+        },
+        "statusAdditionalInfo": {
+            "DE": "Autoverlad Simplon in Brig  offen für alle Fahrzeuge",
+            "FR": "Gare de chargement du Simplon à Brigue ouvert à tous les véhicules",
+            "IT": "Stazione di carico del Sempione a Briga aperto per tutti i veicoli"
+        },
+        "supportedVehicles": {
+            "DE": [
+                "Auto",
+                "Auto mit Anhänger",
+                "Auto mit Wohnwagen",
+                "Wohnmobil",
+                "Motorrad",
+                "Busse (10-19 Sitze)"
+            ],
+            "FR": [
+                "Voiture",
+                "Voiture avec remorque",
+                "Voiture avec caravane",
+                "Camping-car",
+                "Moto",
+                "Autobus (10-19 places)"
+            ],
+            "IT": [
+                "Auto",
+                "Auto con rimorchio",
+                "Auto con roulotte",
+                "Camper",
+                "Moto",
+                "Autobus (10-19 posti)"
+            ]
+        },
+        "restrictions": {
+            "maxHeightInMeters": 3.1,
+            "maxWidthInMeters": 2.5,
+            "maxWeight": {
+                "DE": "3.5t  (Wohnmobile bis 5t)",
+                "FR": "3.5t  (camping-cars jusqu'à 5t)",
+                "IT": "3.5t  (camper fino a 5t)"
+            }
+        },
+        "plannedWorks": [],
+        "activeIncidents": [],
+        "siblingsIds": [
+            18
+        ],
+        "relatedPassesId": [
+            43
+        ],
+        "lastModified": "2025-11-17T12:10:20+01:00",
+        "webcamURL": "",
+        "waitingTime": {
+            "DE": "",
+            "FR": "",
+            "IT": ""
+        },
+        "lastUpdated": "2025-11-17T12:10:20+01:00"
+    },
+    {
+        "id": 18,
+        "name": {
+            "DE": "Autoverlad Simplon in Iselle",
+            "FR": "Gare de chargement du Simplon à Iselle",
+            "IT": "Stazione di carico del Sempione a Iselle"
+        },
+        "locationCode": 26892,
+        "direction": 0,
+        "directionReadable": {
+            "DE": "Iselle Richtung Brig",
+            "FR": "Iselle direction Brigue",
+            "IT": "Iselle direzione Briga"
+        },
+        "coordinates": {
+            "start": {
+                "type": "Point",
+                "coordinates": [
+                    46.20635689910125,
+                    8.209039281882736
+                ]
+            },
+            "end": {
+                "type": "Point",
+                "coordinates": [
+                    46.321270970877706,
+                    7.993788791581828
+                ]
+            },
+            "middle": {
+                "type": "Point",
+                "coordinates": [
+                    46.26732263973048,
+                    8.105490774003945
+                ]
+            }
+        },
+        "lengthInKm": 21.8,
+        "operatorName": {
+            "DE": "BLS ",
+            "FR": "BLS",
+            "IT": "BLS"
+        },
+        "priceFrom": 24,
+        "ticketURL": {
+            "DE": "https://www.bls.ch/de/fahren/autoverlad/brig-iselle",
+            "FR": "https://www.bls.ch/fr/fahren/autoverlad/brig-iselle",
+            "IT": "https://www.bls.ch/it/fahren/autoverlad/brig-iselle"
+        },
+        "status": {
+            "DE": "offen",
+            "FR": "ouvert",
+            "IT": "aperto"
+        },
+        "statusAdditionalInfo": {
+            "DE": "Autoverlad Simplon in Iselle  offen für alle Fahrzeuge",
+            "FR": "Gare de chargement du Simplon à Iselle ouvert à tous les véhicules",
+            "IT": "Stazione di carico del Sempione a Iselle aperto per tutti i veicoli"
+        },
+        "supportedVehicles": {
+            "DE": [
+                "Auto",
+                "Auto mit Anhänger",
+                "Auto mit Wohnwagen",
+                "Wohnmobil",
+                "Motorrad",
+                "Busse (10-19 Sitze)"
+            ],
+            "FR": [
+                "Voiture",
+                "Voiture avec remorque",
+                "Voiture avec caravane",
+                "Camping-car",
+                "Moto",
+                "Autobus (10-19 places)"
+            ],
+            "IT": [
+                "Auto",
+                "Auto con rimorchio",
+                "Auto con roulotte",
+                "Camper",
+                "Moto",
+                "Autobus (10-19 posti)"
+            ]
+        },
+        "restrictions": {
+            "maxHeightInMeters": 3.1,
+            "maxWidthInMeters": 2.5,
+            "maxWeight": {
+                "DE": "3.5t (Wohnmobile bis 5t)",
+                "FR": "3.5t  (Camping-cars jusqu'à 5t)",
+                "IT": "3.5t  (Camper fino a 5t)"
+            }
+        },
+        "plannedWorks": [],
+        "activeIncidents": [],
+        "siblingsIds": [
+            17
+        ],
+        "relatedPassesId": [
+            43
+        ],
+        "lastModified": "2025-11-17T12:30:21+01:00",
+        "webcamURL": "",
+        "waitingTime": {
+            "DE": "",
+            "FR": "",
+            "IT": ""
+        },
+        "lastUpdated": "2025-11-17T12:30:21+01:00"
+    },
+    {
+        "id": 19,
+        "name": {
+            "DE": "Autoverlad Vereina in Selfranga bei Klosters",
+            "FR": "Gare de chargement de la Vereina à Klosters-Selfranga",
+            "IT": "Stazione di carico della Vereina a Klosters-Selfranga"
+        },
+        "locationCode": 12544,
+        "direction": 1,
+        "directionReadable": {
+            "DE": "Klosters Richtung Engadin",
+            "FR": "Klosters-Selfranga direction Sagliains",
+            "IT": "Klosters-Selfranga direzione Sagliains"
+        },
+        "coordinates": {
+            "start": {
+                "type": "Point",
+                "coordinates": [
+                    46.8562122531927,
+                    9.883809575013942
+                ]
+            },
+            "end": {
+                "type": "Point",
+                "coordinates": [
+                    46.76340957347753,
+                    10.096542901661504
+                ]
+            },
+            "middle": {
+                "type": "Point",
+                "coordinates": [
+                    46.80706299674256,
+                    9.994160921242072
+                ]
+            }
+        },
+        "lengthInKm": 19.4,
+        "operatorName": {
+            "DE": "Rätische Bahn (RhB)",
+            "FR": "Rhaetian Railway (RhB)",
+            "IT": "Ferrovia Retica (RhB)"
+        },
+        "priceFrom": 34,
+        "ticketURL": {
+            "DE": "https://vereina-shop.rhb.ch/",
+            "FR": "https://vereina-shop.rhb.ch/",
+            "IT": "https://vereina-shop.rhb.ch/"
+        },
+        "status": {
+            "DE": "offen",
+            "FR": "ouvert",
+            "IT": "aperto"
+        },
+        "statusAdditionalInfo": {
+            "DE": "Autoverlad Vereina in Selfranga bei Klosters offen für alle Fahrzeuge",
+            "FR": "Gare de chargement de la Vereina à Klosters-Selfranga ouvert à tous les véhicules",
+            "IT": "Stazione di carico della Vereina a Klosters-Selfranga aperto per tutti i veicoli"
+        },
+        "supportedVehicles": {
+            "DE": [
+                "Motorrad",
+                "Auto (bis 9 Sitze)",
+                "Auto mit Anhänger",
+                "Auto mit Wohnwagen",
+                "Busse",
+                "Lastwagen"
+            ],
+            "FR": [
+                "Moto",
+                "Véhicules (jusqu'à 9 places)",
+                "Voitures avec remorque",
+                "Camping-car",
+                "Autobus",
+                "Camions"
+            ],
+            "IT": [
+                "Moto",
+                "Veicoli (fino a 9 posti)",
+                "Rimorchio-roulotte",
+                "Camper",
+                "Autobus",
+                "Camion"
+            ]
+        },
+        "restrictions": {
+            "maxHeightInMeters": 3.8,
+            "maxWidthInMeters": 2.5,
+            "maxWeight": {
+                "DE": "18t (Schutzdach). 28t (kein Dach). Für Sattelzüge bis 32t oder mehr ist eine besondere Genehmigung erforderlich",
+                "FR": "18t (toit de protection). 28t (sans toit). Pour les camions articulés jusqu'à 32t ou plus, une autorisation spéciale est nécessaire",
+                "IT": "18t (tetto protettivo).  28t (senza tetto). Per i camion articolati fino a 32t o più è necessaria un'autorizzazione speciale"
+            }
+        },
+        "plannedWorks": [],
+        "activeIncidents": [],
+        "siblingsIds": [
+            20
+        ],
+        "relatedPassesId": [
+            61
+        ],
+        "lastModified": "2025-11-18T09:12:55+01:00",
+        "webcamURL": "",
+        "waitingTime": {
+            "DE": "",
+            "FR": "",
+            "IT": ""
+        },
+        "lastUpdated": "2025-11-18T09:12:55+01:00"
+    },
+    {
+        "id": 20,
+        "name": {
+            "DE": "Autoverlad Vereina in Sagliains bei Zernez",
+            "FR": "Gare de chargement de la Vereina à Sagliains",
+            "IT": "Stazione di carico della Vereina a Sagliains"
+        },
+        "locationCode": 12543,
+        "direction": 0,
+        "directionReadable": {
+            "DE": "Sagliains Richtung Klosters",
+            "FR": "Sagliains direction Klosters-Selfranga",
+            "IT": "Sagliains direzione Klosters-Selfranga"
+        },
+        "coordinates": {
+            "start": {
+                "type": "Point",
+                "coordinates": [
+                    46.76340957347753,
+                    10.096542901661504
+                ]
+            },
+            "end": {
+                "type": "Point",
+                "coordinates": [
+                    46.8562122531927,
+                    9.883809575013942
+                ]
+            },
+            "middle": {
+                "type": "Point",
+                "coordinates": [
+                    46.80706299674256,
+                    9.994160921242072
+                ]
+            }
+        },
+        "lengthInKm": 19.4,
+        "operatorName": {
+            "DE": "Rätische Bahn (RhB)",
+            "FR": "Rhaetian Railway (RhB)",
+            "IT": "Ferrovia Retica (RhB)"
+        },
+        "priceFrom": 34,
+        "ticketURL": {
+            "DE": "https://vereina-shop.rhb.ch/",
+            "FR": "https://vereina-shop.rhb.ch/",
+            "IT": "https://vereina-shop.rhb.ch/"
+        },
+        "status": {
+            "DE": "offen",
+            "FR": "ouvert",
+            "IT": "aperto"
+        },
+        "statusAdditionalInfo": {
+            "DE": "Autoverlad Vereina in Sagliains im Engadin offen für alle Fahrzeuge",
+            "FR": "Gare de chargement de la Vereina à Sagliains ouvert à tous les véhicules",
+            "IT": "Stazione di carico della Vereina a Sagliains aperto per tutti i veicoli"
+        },
+        "supportedVehicles": {
+            "DE": [
+                "Motorrad",
+                "Auto (bis 9 Sitze)",
+                "Auto mit Anhänger",
+                "Auto mit Wohnwagen",
+                "Busse",
+                "Lastwagen"
+            ],
+            "FR": [
+                "Moto",
+                "Véhicules (jusqu'à 9 places)",
+                "Voitures avec remorque",
+                "Camping-car",
+                "Autobus",
+                "Camions"
+            ],
+            "IT": [
+                "Moto",
+                "Veicoli (fino a 9 posti)",
+                "Rimorchio-roulotte",
+                "Camper",
+                "Autobus",
+                "Camion"
+            ]
+        },
+        "restrictions": {
+            "maxHeightInMeters": 3.8,
+            "maxWidthInMeters": 2.5,
+            "maxWeight": {
+                "DE": "18t (Schutzdach). 28t (kein Dach). Für Sattelzüge bis 32t oder mehr ist eine besondere Genehmigung erforderlich",
+                "FR": "18t (toit de protection). 28t (sans toit). Pour les camions articulés jusqu'à 32t ou plus, une autorisation spéciale est nécessaire",
+                "IT": "18t (tetto protettivo).  28t (senza tetto). Per i camion articolati fino a 32t o più è necessaria un'autorizzazione speciale"
+            }
+        },
+        "plannedWorks": [],
+        "activeIncidents": [],
+        "siblingsIds": [
+            19
+        ],
+        "relatedPassesId": [
+            61
+        ],
+        "lastModified": "2025-11-09T16:21:30+01:00",
+        "webcamURL": "",
+        "waitingTime": {
+            "DE": "",
+            "FR": "",
+            "IT": ""
+        },
+        "lastUpdated": "2025-11-09T16:21:30+01:00"
+    }
+]
