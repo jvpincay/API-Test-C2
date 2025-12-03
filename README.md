@@ -1,6 +1,6 @@
 # Swiss Carload API – Technical Test
 
-This repository is a starter project for a **60-minute technical test**.
+This repository is a starter project for a **45-minute technical test**.
 
 The goal is to:
 
